@@ -1,4 +1,4 @@
-# New proyect scaffolding [WIP]
+# New proyect scaffolding
 
 Estructura _personal_ para iniciar nuevos proyectos.  
 A modo de checklist, provee una serie de pasos ordenados de manera logica y conveniente.
@@ -17,13 +17,13 @@ A modo de checklist, provee una serie de pasos ordenados de manera logica y conv
 - Definir componentes [UI - Wireframe]
 - Diseñar componentes [UI - Mockup]
 - Diseñar paginas [UI - Mockup]
-- Definir API REST
+- Diseñar API REST
 - Definir tecnologias
 - Definir servicios externos
-- Definir colecciones/tablas [DB - Modeling]
+- Modelar colecciones/tablas [DB]
 
 ## 3. Desarrollo
 
 - Crear repositorios
 - Desarrollar API REST
-- Desarrollar SPA
+- Desarrollar web app
