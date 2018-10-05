@@ -8,8 +8,6 @@ Tecnologias que mejor se adaptan con este flujo:
 - APIs REST
 - NoSQL
 
----
-
 ## 1. Marca
 
 - Definir nombre
@@ -18,8 +16,6 @@ Tecnologias que mejor se adaptan con este flujo:
 - Reclamar dominios
 - Reclamar redes sociales
 - Iniciar posibles acciones legales
-
----
 
 ## 2. Analisis y estructura
 
@@ -44,8 +40,6 @@ Tecnologias que mejor se adaptan con este flujo:
   _Saas, paas, faas, etc._
 
 - Definir colecciones (o tablas) [DB - Modeling]
-
----
 
 ## 3. Desarrollo
 
