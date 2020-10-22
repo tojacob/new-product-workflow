@@ -21,7 +21,7 @@ A modo de checklist, provee una serie de pasos ordenados de manera logica y conv
 - [ ] Definir stack
   - Lenguajes
   - Tecnologias
-  - Servicios
+  - Servicios [saas]
 - [ ] Modelar colecciones/tablas [DB]
 
 ## 3. Desarrollo
