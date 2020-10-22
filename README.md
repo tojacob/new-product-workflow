@@ -18,8 +18,10 @@ A modo de checklist, provee una serie de pasos ordenados de manera logica y conv
 - [ ] Diseñar componentes [UI - Mockup]
 - [ ] Diseñar paginas [UI - Mockup]
 - [ ] Diseñar API REST
-- [ ] Definir tecnologias
-- [ ] Definir servicios externos
+- [ ] Definir stack
+  - Lenguajes
+  - Tecnologias
+  - Servicios
 - [ ] Modelar colecciones/tablas [DB]
 
 ## 3. Desarrollo
